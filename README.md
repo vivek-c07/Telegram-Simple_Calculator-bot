@@ -1,5 +1,6 @@
 # Telegram-Simple_Calculator-bot
-A simple calculator Bot that can be accessed using telegram
+
+### A simple calculator Bot that can be accessed using telegram
 
 I have created a telegram bot using python.
 This bot can perform basic operations - add, subtract, multiply and divide
